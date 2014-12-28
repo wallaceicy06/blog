@@ -12,8 +12,8 @@ relative_permalinks: true
 title:               Sean Harger
 tagline:             'thoughts on life, tech, and other drugs'
 description:         'a blog dedicated towards providing useful and useless information'
-url:                 http://lanyon.getpoole.com
-baseurl:             /
+url:                 http://wallaceicy06.github.io
+baseurl:             /blog
 paginate:            5
 
 # About/contact
