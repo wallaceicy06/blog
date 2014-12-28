@@ -13,7 +13,7 @@ title:               Sean Harger
 tagline:             'thoughts on life, tech, and other drugs'
 description:         'a blog dedicated towards providing useful and useless information'
 url:                 http://wallaceicy06.github.io/blog/
-baseurl:             /blog
+baseurl:             /blog/
 paginate:            5
 
 # About/contact
